@@ -1,0 +1,26 @@
+{
+  "name": "dummypackage",
+  "version": "1.0.0",
+  "description": "This is my first node project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Bibek Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bibekpandey455/dummy-repo.git"
+  },
+  "keywords": [
+    "dummy12"
+  ],
+  "bugs": {
+    "url": "https://github.com/Bibekpandey455/dummy-repo/issues"
+  },
+  "homepage": "https://github.com/Bibekpandey455/dummy-repo#readme"
+}
